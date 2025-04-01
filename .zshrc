@@ -2,6 +2,9 @@
 # export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 
+# nodejs
+export PATH=/opt/node-v18.20.8-linux-x64/bin:$PATH
+
 # Default editor
 # export EDITOR="nvim"
 
